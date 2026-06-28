@@ -8,7 +8,7 @@
 - Venerated World wyrm now takes 16 Gold Singularities (previously 8). This is the same total as before
 - No change to Superheated Frames/Induction Casing recipes. They are now cheaper because of the Singularity recipe changes.
 - Dense Neutron Collider now takes 30k rf/t for every recipe (previously in the range of 55k-95k, these costs did not really affect gameplay, and could be seen annoyingly spiky on a players power grid)
-- Pulverizing Deep Substrate Ore now takes 8,000 RF (previously 12,000 RF). (Breaking down individual pieces of )
+- Pulverizing Deep Substrate Ore now takes 8,000 RF (previously 12,000 RF). (Breaking down individual pieces of Foliated Kalthrite is still 4,000 RF)
 - Updated book with new required totals.
     -  3.13m Iron Ingots -> 2m Iron Ingots.
     -  1.29m ingots of each ingot in the Stellar Singularity -> 650k ingots of each ingot in the Stellar Singularity.
