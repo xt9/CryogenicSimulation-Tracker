@@ -1,3 +1,23 @@
+# 1.0.18
+!!! Breaking change to Singularity autocrafting (the metal ones, redstone/natural singularities have not been changed) !!!
+
+#### This update focuses on balancing the endgame based on some player feedback.
+- Cost of all singularities are being cut in half (except for redstone)
+- Neutronium ingots require 6 iron singularities instead of 4. (since the cost of iron singularities was cut in half this is still only 75% of the cost in 1.0.17)
+- Venerated World wyrm now takes 32 Iron Singularities (previously 16). This is the same total as before
+- Venerated World wyrm now takes 16 Gold Singularities (previously 8). This is the same total as before
+- No change to Superheated Frames/Induction Casing recipes. They are now cheaper because of the Singularity recipe changes.
+- Dense Neutron Collider now takes 30k rf/t for every recipe (previously in the range of 55k-95k, these costs did not really affect gameplay, and could be seen annoyingly spiky on a players power grid)
+- Pulverizing Deep Substrate Ore now takes 8,000 RF (previously 12,000 RF). (Breaking down individual pieces of )
+- Updated book with new required totals.
+    -  3.13m Iron Ingots -> 2m Iron Ingots.
+    -  1.29m ingots of each ingot in the Stellar Singularity -> 650k ingots of each ingot in the Stellar Singularity.
+- Change wording on dim5 chapter 4 to strongly recommend that all ores are processed straight away. Removed the word "store". Also strongly suggest to not fall behind on wyrm milk production.
+- Added more mentions of things like Polymer Clay/Gold sifting/Basic Materials that will be required in the endgame in the Automation Requirements manual pages.
+
+#### Other changes
+- Fixed a typo in the tooltip for Heartbeets
+
 # 1.0.17
 !!! Breaking change to Calcified Limestone !!!
 
