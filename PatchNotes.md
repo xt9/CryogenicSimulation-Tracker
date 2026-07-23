@@ -1,3 +1,29 @@
+# 1.0.19
+!!! Breaking change to Wyrm Milk Recipe !!!
+
+### Wyrm Milk recipe
+- Now requires Growtein instead of Protein
+- Growtein is Protein distilled in a Vat with 2x Nature Essence.
+- This change is intended to make the protein part of the recipe more interesting, and make sure the player starts producing Nature Essence. early. Since its also required in the lategame.
+- This does not require more protein then before, it will only require an additional processing step
+- Updated manual pages that mentioned that you need protein for the Wyrm Milk Production. Also detailed this additional step in the Wyrm Milk chapter.
+
+### Sanguis Nihil Flavor
+- Updated cryosimadditions to 1.0.2.
+- Having Sanguis Nihil in your inventory now plays a sequence of lore texts/gameplay events.
+
+### New multiblock. The Advanced Metal Lathe
+- The Advanced Metal Lathe batch crafts all of the relevant rods in the game at a ratio of 1 ingot per 4 rods (More material efficient than metal press).
+- The Advanced Metal Lathe batch crafts Compressed Iron Gear and Sanguine Metal Gears at a ratio of 2 ingots per gear (More material efficient than metal press/compactor).
+- The Advanced Metal Lathe batch crafts all wires at a ratio of 1 plate per 8 wires (More material efficient than metal press). These are additionally efficient since they require plates instead of ingots, requiring an extra crafting step.
+- It also batch crafts HDPE rods, with no added material efficiency.
+- Each batch craft takes 6 seconds, and consumes 5000 RF/t. Making it a very attractive machine for bulk crafting rods and some of the required gears.
+- Added Schematica entry for the Advanced Metal Lathe
+
+### Other changes
+- Fixed the Energized Smelter/Smelter factories. They can now process both the ores and dusts that are disabled in the vanilla furnace.
+- Updated AE2 page links in the manual that pointed to a dead domain. Replaced links to instead point to the archived wiki
+
 # 1.0.18
 !!! Breaking change to Singularity autocrafting (the metal ones, redstone/natural singularities have not been changed) !!!
 
